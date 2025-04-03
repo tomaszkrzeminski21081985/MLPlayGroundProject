@@ -1,0 +1,15 @@
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\bin\Debug\MLPlayGround.exe.config
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\bin\Debug\MLPlayGround.exe
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\bin\Debug\MLPlayGround.pdb
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MainWindow.g.cs
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\App.g.cs
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround_MarkupCompile.cache
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround_MarkupCompile.lref
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MainWindow.baml
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround.g.resources
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround.Properties.Resources.resources
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround.exe
+C:\Users\tomas\source\repos\MLPlayGround\MLPlayGround\obj\Debug\MLPlayGround.pdb
