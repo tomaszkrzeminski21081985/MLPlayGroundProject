@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\MLPlayGroundProject\MLPlayGround\MLPlayGround\obj\Debug\
+D:\MLPlayGroundProject\MLPlayGround\MLPlayGround\obj\Release\
 MLPlayGround
 none
 false
-DEBUG;TRACE
+TRACE
 D:\MLPlayGroundProject\MLPlayGround\MLPlayGround\App.xaml
 1219584333
 

@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\",
+  "WorkspaceRootPath": "D:\\MLPlayGroundProject\\MLPlayGround\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Python311\\Lib\\site-packages\\sklearn\\datasets\\_openml.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Python311\\Lib\\site-packages\\sklearn\\datasets\\_openml.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\missingData.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\missingData.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\missingData.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\missingData.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\LinearRegression2\\Main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\LinearRegression\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\LinearRegression\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\LinearRegression2\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\DataSets.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\LinearRegression\\DataSets.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\DataSets.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\LinearRegression\\DataSets.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\LinearRegression\\Evaluation.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\LinearRegression2\\Main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{951B2DBB-257D-425B-9CEE-B5F3F6EB0D9B}|TrainingApplication\\TrainingApplication.pyproj|solutionrelative:TrainingApplication\\Projects\\LinearRegression\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TrainingApplication\\Projects\\LinearRegression2\\Features.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -183,9 +183,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Linear.ipynb",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb",
               "RelativeToolTip": "TrainingApplication\\Projects\\Logistic_Linear_SoftMax\\Linear.ipynb",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -194,23 +194,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_openml.py",
               "DocumentMoniker": "C:\\Python311\\Lib\\site-packages\\sklearn\\datasets\\_openml.py",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Python311\\Lib\\site-packages\\sklearn\\datasets\\_openml.py",
               "ToolTip": "C:\\Python311\\Lib\\site-packages\\sklearn\\datasets\\_openml.py",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Python311\\Lib\\site-packages\\sklearn\\datasets\\_openml.py",
               "ViewState": "AgIAAPsCAAAAAAAAAAAuwA0DAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-03-31T16:07:23.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Classyfication.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\DataAnalyst\\Classyfication.py",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -220,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "missingData.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\missingData.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\missingData.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\DataAnalyst\\missingData.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\missingData.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\missingData.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\DataAnalyst\\missingData.py",
               "ViewState": "AgIAAD4AAAAAAAAAAAAgwGMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -232,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PythonBasics.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\DataAnalyst\\PythonBasics.py",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -242,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Evaluation.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\LinearRegression2\\Evaluation.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -254,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Features.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Features.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Features.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\LinearRegression\\Features.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Features.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Features.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\LinearRegression\\Features.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -266,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Evaluation.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Evaluation.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Evaluation.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\LinearRegression\\Evaluation.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Evaluation.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\Evaluation.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\LinearRegression\\Evaluation.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -278,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "pandasBasics.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\DataAnalyst\\pandasBasics.py",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -292,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DataSets.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\DataSets.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\DataSets.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\LinearRegression\\DataSets.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\DataSets.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression\\DataSets.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\LinearRegression\\DataSets.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -302,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Main.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Main.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Main.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\LinearRegression2\\Main.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Main.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Main.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\LinearRegression2\\Main.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
@@ -314,11 +312,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Features.py",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Features.py",
+              "DocumentMoniker": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Features.py",
               "RelativeDocumentMoniker": "TrainingApplication\\Projects\\LinearRegression2\\Features.py",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Features.py",
+              "ToolTip": "D:\\MLPlayGroundProject\\MLPlayGround\\TrainingApplication\\Projects\\LinearRegression2\\Features.py",
               "RelativeToolTip": "TrainingApplication\\Projects\\LinearRegression2\\Features.py",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
